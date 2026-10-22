@@ -1,4 +1,23 @@
 -# This TXT file only holds the first 1000 new audios uploaded to Distrokid -> Roblox. Made by monkey_kid03 & Hagey Express.
+[2026-10-22 18:30:52 UTC] - Velvet City Mirage "NEW ERA — 新しい私たちへ" (5:24) | 108262388748783
+[2026-10-22 18:30:40 UTC] - Tom Litus "Turn the noise off" (3:27) | 105626041021631
+[2026-10-22 18:29:51 UTC] - Straza "BANG" (2:07) | 108966155830246
+[2026-10-22 18:29:44 UTC] - Galilei Chateau "Glad" (4:48) | 108070690745167
+[2026-10-22 18:29:43 UTC] - Galilei Chateau "Unleashed" (2:44) | 95273067108889
+[2026-10-22 18:29:41 UTC] - Galilei Chateau "Gorgeous" (3:08) | 77848427625319
+[2026-10-22 18:29:40 UTC] - Galilei Chateau "Grandest Of Them All" (3:17) | 82833862957633
+[2026-10-22 18:29:39 UTC] - Project Southern Skies "The Words We Never Said" (4:23) | 90124070168273
+[2026-10-22 18:29:23 UTC] - Revolution Films Music "Lets Go" (2:44) | 135915846299683
+[2026-10-22 18:29:22 UTC] - Galilei Chateau "Hidden Details" (3:37) | 86394778302799
+[2026-10-22 18:29:21 UTC] - Galilei Chateau "Ancestor" (3:34) | 85138949398252
+[2026-10-22 18:29:13 UTC] - AorBorC Studios "Roots & Wings (Movement 1 Roots)" (3:35) | 95444641077590
+[2026-10-22 18:29:13 UTC] - VARISONA "You Don't Know Me Yet" (3:08) | 124730850271752
+[2026-10-22 18:28:53 UTC] - Delgraphyha "دلم هنوز ایرانه | Delam Hanoz Irane" (3:18) | 108049569311489
+[2026-10-22 18:27:31 UTC] - Mohit Trehan "Beside the Fire" (4:28) | 99731111285861
+[2026-10-22 18:27:31 UTC] - Mohit Trehan "The Pull" (5:09) | 79046170911279
+[2026-10-22 18:27:26 UTC] - Mohit Trehan "The Realization" (4:41) | 80020562267551
+[2026-10-22 18:27:23 UTC] - Mohit Trehan "The Forgotten" (4:40) | 83813163966555
+[2026-10-22 18:26:31 UTC] - Mohit Trehan "The Call" (5:04) | 76397783644875
 [2026-10-22 18:26:56 UTC] - Neon Husky "Initial Commit" (2:56) | 88654226679557
 [2026-10-22 18:26:54 UTC] - Neon Husky "Initial Commit" (2:55) | 117153829387955
 [2026-10-22 18:26:54 UTC] - Mohit Trehan "The Lantern" (5:15) | 86024411781705
@@ -980,22 +999,3 @@
 [2026-10-22 12:35:51 UTC] - Sarah Bernier "Through The Night" (6:03) | 103187006532950
 [2026-10-22 12:35:42 UTC] - The Playground Crew - Nursery Rhymes "Happy Birthday to You! | Birthday Song | TPC" (4:00) | 133604814872442
 [2026-10-22 12:35:38 UTC] - The Playground Crew - Nursery Rhymes "ABC Letter Bend | ABC Dance Song for Kids" (2:13) | 91927453197041
-[2026-10-22 12:35:20 UTC] - DJJireh "You Are My Everything" (5:13) | 89416901204008
-[2026-10-22 12:30:42 UTC] - Caique Pereira "Sem Nada De Amor" (5:10) | 113211749402462
-[2026-10-22 12:29:41 UTC] - Lan Night "Fading Polaroids" (3:52) | 110089231817298
-[2026-10-22 12:29:21 UTC] - Lan Night "The Last Memory" (4:20) | 110017475976460
-[2026-10-22 12:29:08 UTC] - Healing Nations Music "My LIfe is Full Of YOur Glory by Samuel IGBINOSA" (4:24) | 112911934144573
-[2026-10-22 12:29:07 UTC] - Lan Night "3 AM Echoes" (4:29) | 132421673345113
-[2026-10-22 12:29:06 UTC] - ML Muzix "Pink Sky" (3:19) | 86344497808100
-[2026-10-22 12:29:00 UTC] - Lan Night "Golden Hour Light" (4:57) | 134013590544551
-[2026-10-22 12:28:59 UTC] - Lan Night "Winter Coat" (3:20) | 103763762222761
-[2026-10-22 12:28:56 UTC] - Lan Night "The Drive Home" (3:55) | 71005813732220
-[2026-10-22 12:25:50 UTC] - Jernbane "CONQUISTA" (2:11) | 108303097840669
-[2026-10-22 12:12:21 UTC] - Hvlftvbs "Neptune" (3:00) | 92727058907799
-[2026-10-22 11:49:16 UTC] - LoFi Tokyo "Broken Angel" (2:15) | 87229483875313
-[2026-10-22 11:25:55 UTC] - Tolga Kara Official "SANKİ" (2:41) | 138671940633205
-[2026-10-22 11:06:43 UTC] - Tropa Ni Juan "Ma, Anong Ulam?" (4:49) | 99744952572615
-[2026-10-22 11:02:13 UTC] - HYDROBEAT PRODUCTION "SAY" (2:35) | 127700529640100
-[2026-10-22 10:55:50 UTC] - TiToch Music "ឆ្នាំនេះអូនមកលេងស្រុកទេ" (3:47) | 111833108340755
-[2026-10-22 10:50:47 UTC] - Kukalaka "Theme For An Imaginary Short Film" (5:49) | 107538107691802
-[2026-10-22 10:35:09 UTC] - Made Audible "Ninguém Planejou Isso" (5:44) | 77765736003318
