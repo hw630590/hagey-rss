@@ -1,4 +1,14 @@
 -# This TXT file only holds the first 1000 new audios uploaded to Distrokid -> Roblox. Made by monkey_kid03 & Hagey Express.
+[2026-10-22 20:45:34 UTC] - Sacred Asymmetry "The Devil's Toys" (4:40) | 76309676356126
+[2026-10-22 20:45:21 UTC] - VoNWooDSoN "Waggle Baby" (3:00) | 117357412976526
+[2026-10-22 20:44:52 UTC] - Ronieri Barreto "O Terrivel dia" (4:47) | 107500295931121
+[2026-10-22 20:44:15 UTC] - Anatolian Nova "Yangın Mıyım Kül Mü" (2:50) | 89776686614554
+[2026-10-22 20:43:38 UTC] - Littledrose "I wish i can call on him" (2:49) | 100582512710187
+[2026-10-22 20:43:27 UTC] - ZOUL "Beautiful" (5:30) | 75389048868136
+[2026-10-22 20:41:46 UTC] - Birdie Anthem "When The Lake Lies Quiet" (5:17) | 81953054280038
+[2026-10-22 20:41:42 UTC] - Birdie Anthem "I Still Need The Father" (4:29) | 119905780098709
+[2026-10-22 20:39:38 UTC] - HEYMAYHEM "Muddy Water" (4:23) | 139668831693711
+[2026-10-22 20:39:28 UTC] - HEYMAYHEM "Overton" (4:39) | 95623784963280
 [2026-10-22 20:39:33 UTC] - HEYMAYHEM "Hold Your Ground" (3:56) | 114793656611405
 [2026-10-22 20:39:00 UTC] - HEYMAYHEM "A.scend I.nto" (4:10) | 111089862578946
 [2026-10-22 20:38:54 UTC] - HEYMAYHEM "Paper Skies" (4:44) | 103464936302232
@@ -989,13 +999,3 @@
 [2026-10-22 14:19:44 UTC] - Tolga Kara Official "MÜTHİŞ ESER (Alaturka)" (3:38) | 75227020369508
 [2026-10-22 14:14:46 UTC] - RIDERS OF THE NEW DAWN "THE APPRENTICE SIGNS THE FRAME" (3:32) | 128226874977465
 [2026-10-22 14:14:21 UTC] - jose luis orellana "PRUEBA DE LLUVIA BAJO LONAS AZULES" (3:24) | 120140208486333
-[2026-10-22 14:12:56 UTC] - ABED François "Apprendre le respect" (3:58) | 83201895248778
-[2026-10-22 14:12:55 UTC] - Zae 2 cute "Up late" (4:06) | 93299040699604
-[2026-10-22 14:12:31 UTC] - Tinker Pop "Frog Life Cycle (From Tadpole to Frog)" (1:32) | 76653508896819
-[2026-10-22 14:12:08 UTC] - Aydogdu "Kabuk Kabuk" (4:27) | 113252486741108
-[2026-10-22 14:11:53 UTC] - Mxzart "RESURGEX" (3:39) | 82067960738926
-[2026-10-22 14:11:51 UTC] - Aydogdu "Büyüme Baba" (3:37) | 116899184670060
-[2026-10-22 14:11:50 UTC] - Aydogdu "Canım Canıma Sığmıyor" (3:56) | 132504941993462
-[2026-10-22 14:11:49 UTC] - Aydogdu "Giden Gitti Kalan Yandı" (2:08) | 79040519917738
-[2026-10-22 14:11:44 UTC] - Aydogdu "Sebebim Her Gün Değişti" (4:37) | 102448701687110
-[2026-10-22 14:11:20 UTC] - Aydogdu "En Duru Mucize" (4:53) | 90165828872024
