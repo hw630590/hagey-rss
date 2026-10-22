@@ -1,4 +1,11 @@
--# This TXT file only holds the first 1000 new audios uploaded to Distrokid -> Roblox.
+-# This TXT file only holds the first 1000 new audios uploaded to Distrokid -> Roblox. Made by hw630590 & Hagey Express.
+[2026-10-22 10:50:38 UTC] - Kukalaka "Monkey People" (3:37)
+[2026-10-22 10:49:59 UTC] - Weekly Carouse "Dieses Lied" (3:20)
+[2026-10-22 10:40:38 UTC] - 1Ping AiMusic "Bite Me at Midnight" (4:34)
+[2026-10-22 10:38:56 UTC] - Ty Seyha "The Future We Never Met" (5:39)
+[2026-10-22 10:38:30 UTC] - Gary Murrell II "Us Against Them" (3:48)
+[2026-10-22 10:38:30 UTC] - Carpathian Whispers Music "Snowfall in the Carpathians" (3:12)
+[2026-10-22 10:35:09 UTC] - Made Audible "Ninguém Planejou Isso" (5:44)
 [2026-10-22 17:35:36 UTC] - GeoLuxxe "Body Control" (2:25)
 [2026-10-22 17:35:34 UTC] - GeoLuxxe "Súbelo" (3:00)
 [2026-10-22 17:28:38 UTC] - Luciano Jr Briones "Electric night" (3:16)
@@ -992,10 +999,3 @@
 [2026-10-22 10:51:06 UTC] - Kukalaka "In Standby (2008)" (4:22)
 [2026-10-22 10:51:05 UTC] - Kukalaka "The Glasshouse" (4:21)
 [2026-10-22 10:51:02 UTC] - Kukalaka "Here Is To You" (3:48)
-[2026-10-22 10:51:01 UTC] - Awaken The Veil "Enough Time" (4:17)
-[2026-10-22 10:50:47 UTC] - Kukalaka "Theme For An Imaginary Short Film" (5:49)
-[2026-10-22 10:50:47 UTC] - Kukalaka "Distant Enough" (4:39)
-[2026-10-22 10:50:46 UTC] - Kukalaka "Kevin" (3:37)
-[2026-10-22 10:50:43 UTC] - Kukalaka "Come On Sun" (3:42)
-[2026-10-22 10:50:43 UTC] - Kukalaka "Showers Under Blue Skies" (3:32)
-[2026-10-22 10:50:41 UTC] - Kukalaka "###############" (4:20)
