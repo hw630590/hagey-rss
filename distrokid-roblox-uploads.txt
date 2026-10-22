@@ -1,4 +1,11 @@
--# This TXT file only holds the first 1000 new audios uploaded to Distrokid -> Roblox. Made by hw630590 & Hagey Express.
+-# This TXT file only holds the first 1000 new audios uploaded to Distrokid -> Roblox. Made by monkey_kid03 & Hagey Express.
+[2026-10-22 10:51:01 UTC] - Awaken The Veil "Enough Time" (4:17)
+[2026-10-22 10:50:47 UTC] - Kukalaka "Theme For An Imaginary Short Film" (5:49)
+[2026-10-22 10:50:47 UTC] - Kukalaka "Distant Enough" (4:39)
+[2026-10-22 10:50:46 UTC] - Kukalaka "Kevin" (3:37)
+[2026-10-22 10:50:43 UTC] - Kukalaka "Come On Sun" (3:42)
+[2026-10-22 10:50:43 UTC] - Kukalaka "Showers Under Blue Skies" (3:32)
+[2026-10-22 10:50:41 UTC] - Kukalaka "###############" (4:20)
 [2026-10-22 10:50:38 UTC] - Kukalaka "Monkey People" (3:37)
 [2026-10-22 10:49:59 UTC] - Weekly Carouse "Dieses Lied" (3:20)
 [2026-10-22 10:40:38 UTC] - 1Ping AiMusic "Bite Me at Midnight" (4:34)
@@ -992,10 +999,3 @@
 [2026-10-22 10:55:11 UTC] - Tropa Ni Juan "Nak, Kumain Ka Na Ba?" (5:43)
 [2026-10-22 10:54:44 UTC] - MOLODY Q "I Still Look for You" (4:19)
 [2026-10-22 10:54:30 UTC] - Vedat Gül "Out of the Blue" (3:37)
-[2026-10-22 10:54:06 UTC] - DJ-OEL "E GAMER" (3:15)
-[2026-10-22 10:53:58 UTC] - Drawin "Mondd az igazat" (1:22)
-[2026-10-22 10:51:25 UTC] - Weekly Carouse "Endlich Bin Ich Ich" (3:11)
-[2026-10-22 10:51:22 UTC] - KMRN "Introduction" (1:53)
-[2026-10-22 10:51:06 UTC] - Kukalaka "In Standby (2008)" (4:22)
-[2026-10-22 10:51:05 UTC] - Kukalaka "The Glasshouse" (4:21)
-[2026-10-22 10:51:02 UTC] - Kukalaka "Here Is To You" (3:48)
